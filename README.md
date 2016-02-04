@@ -1,7 +1,7 @@
 Power Stone 2
 =============
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) <br>
-*website* <br>
+[*website*](http://powerstone2.com) <br>
 
 ![Image of card trader](http://imgur.com/Xipm5nH.png) <br>
 
