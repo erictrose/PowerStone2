@@ -1,6 +1,6 @@
 Power Stone 2
 =============
-[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) <br>
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) <br>
 *website* <br>
 
 ![Image of card trader](http://imgur.com/Xipm5nH.png) <br>
